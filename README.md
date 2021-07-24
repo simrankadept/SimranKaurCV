@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Simran Kaur
 ======
 [LinkedIn]: (https://www.linkedin.com/in/simran-kaur-khurana/)  
@@ -132,3 +133,6 @@ Education
 ##### GGSIPU
 B.Tech, Computer Science  
 August 2011 – July 2015 
+=======
+# SimranKaurCV
+>>>>>>> d164665... Initial commit
