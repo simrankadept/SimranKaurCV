@@ -25,7 +25,7 @@ Technical Profile:
 * AWS - Serverless, Cloud Formation, Cognito, Lambda, API Gateway, Cloudfront, Pinpoint, SES, SNS, VPC, EC2, S3, RDS, EMR, DynamoDB
 * Security - AWS Inspector, AWS Security Hub, AWS Guard Duty, Prowler, AWS IAM analyzer, Macie 
 * Streaming - AWS Kinesis, Kafka, SQS
-* Cloud - Amazon AWS, GCP
+* Cloud - AWS, GCP
 * DevOps - Bitbucket, CodeCommit, CodeDeploy, CodeBuild, CodePipeline, Docker, Jenkins
 * Infrastructure as code: Serverless framework, CDK
 * Big Data - S3, Redshift, DynamoDB, Athena, Glue, Python , BigQuery
