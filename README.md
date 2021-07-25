@@ -1,5 +1,6 @@
 Simran Kaur
 ======
+
 [LinkedIn]: (https://www.linkedin.com/in/simran-kaur-khurana/)  
 
 Driving Principles:
