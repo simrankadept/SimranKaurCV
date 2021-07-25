@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Simran Kaur
 ======
 [LinkedIn]: (https://www.linkedin.com/in/simran-kaur-khurana/)  
@@ -136,3 +137,6 @@ August 2011 – July 2015
 =======
 # SimranKaurCV
 >>>>>>> d164665... Initial commit
+=======
+# SimranKaurCV
+>>>>>>> d1646651fd4e295553d1f048344e203715cbfcbb
