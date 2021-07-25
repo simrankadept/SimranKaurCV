@@ -1,7 +1,6 @@
 Simran Kaur
 ======
 [LinkedIn]: (https://www.linkedin.com/in/simran-kaur-khurana/)  
-[Email]: (mailto:simrank.adept@gmail.com?subject=[GitHub]CV)
 
 Driving Principles:
 ------
@@ -40,7 +39,7 @@ Experience
 ------
 
 ##### AWS Software architect
-Vaisala 
+Vaisala   
 Aug 2020 – Present       Canada
 
 * Lead development team in designing AWS cloud based solutions
@@ -58,7 +57,7 @@ Aug 2020 – Present       Canada
 
 
 ##### System Integration Engineer
-MetaOptima 
+MetaOptima   
 Aug 2019 – Aug 2020      Canada
 
 Engineering integration solutions various Hospital Information Systems(HIS) ,Electronic medical records(EMR), Electronic Health Records(EHR), Practice management systems(PMS) systems and Laboratories
@@ -71,7 +70,7 @@ Engineering integration solutions various Hospital Information Systems(HIS) ,Ele
 
 
 ##### Senior Software Engineer  
-Wingify 
+Wingify   
 Nov 2018 – Jul 2019     India
 
 Focused on designing real-time high performance data analytics pipeline and a highly scalable log processing system using Kafka with Redis for caching, leveraging HyperLogLog support in Redis for efficiency
@@ -85,7 +84,7 @@ Focused on designing real-time high performance data analytics pipeline and a hi
 
 
 ##### Software Development Engineer || 
-StalkBuyLove 
+StalkBuyLove   
 Mar 2016 – Nov 2018    India 
 
 Worked on multiple projects to architect, deploy, migrate, and manage critical business workloads in the AWS cloud for one of the largest and most recognizable fast fashion brands in the country. Led efforts to design, architect, implement, and debug robust, scalable, distributed and high-volume production data pipelines for scaling the existing business and supporting new business by utilizing a mix of Amazon Web Services (AWS) RedShift, Hadoop EMR, S3, EC2, RDS and NoSQL Databases;
